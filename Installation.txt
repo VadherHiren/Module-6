@@ -1,0 +1,3 @@
+npm i react-router-dom (for route)
+AND
+npm install react-bootstrap bootstrap  (for Bootstrap)
